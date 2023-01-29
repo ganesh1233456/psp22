@@ -1,0 +1,11 @@
+/Users/ganesholi/Downloads/psp34/target/ink/wasm32-unknown-unknown/release/deps/proc_macro2-b6201281179fe597.rmeta: /Users/ganesholi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.50/src/lib.rs /Users/ganesholi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.50/src/marker.rs /Users/ganesholi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.50/src/parse.rs /Users/ganesholi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.50/src/rcvec.rs /Users/ganesholi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.50/src/fallback.rs
+
+/Users/ganesholi/Downloads/psp34/target/ink/wasm32-unknown-unknown/release/deps/libproc_macro2-b6201281179fe597.rlib: /Users/ganesholi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.50/src/lib.rs /Users/ganesholi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.50/src/marker.rs /Users/ganesholi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.50/src/parse.rs /Users/ganesholi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.50/src/rcvec.rs /Users/ganesholi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.50/src/fallback.rs
+
+/Users/ganesholi/Downloads/psp34/target/ink/wasm32-unknown-unknown/release/deps/proc_macro2-b6201281179fe597.d: /Users/ganesholi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.50/src/lib.rs /Users/ganesholi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.50/src/marker.rs /Users/ganesholi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.50/src/parse.rs /Users/ganesholi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.50/src/rcvec.rs /Users/ganesholi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.50/src/fallback.rs
+
+/Users/ganesholi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.50/src/lib.rs:
+/Users/ganesholi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.50/src/marker.rs:
+/Users/ganesholi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.50/src/parse.rs:
+/Users/ganesholi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.50/src/rcvec.rs:
+/Users/ganesholi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.50/src/fallback.rs:

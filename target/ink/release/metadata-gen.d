@@ -1,0 +1,1 @@
+/Users/ganesholi/Downloads/psp34/target/ink/release/metadata-gen: /Users/ganesholi/Downloads/psp34/lib.rs /private/var/folders/q3/d699hkpx49xfy236ph7sltr40000gn/T/cargo-contract_DIoiNO/.ink/metadata_gen/main.rs

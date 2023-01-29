@@ -1,0 +1,11 @@
+/Users/ganesholi/Downloads/psp34/target/ink/release/deps/ink_metadata-55fdfc6fcb8cc9d4.rmeta: /Users/ganesholi/.cargo/git/checkouts/ink-1add513eda8f5a89/4655a8b/crates/metadata/src/lib.rs /Users/ganesholi/.cargo/git/checkouts/ink-1add513eda8f5a89/4655a8b/crates/metadata/src/layout/mod.rs /Users/ganesholi/.cargo/git/checkouts/ink-1add513eda8f5a89/4655a8b/crates/metadata/src/layout/validate.rs /Users/ganesholi/.cargo/git/checkouts/ink-1add513eda8f5a89/4655a8b/crates/metadata/src/specs.rs /Users/ganesholi/.cargo/git/checkouts/ink-1add513eda8f5a89/4655a8b/crates/metadata/src/utils.rs
+
+/Users/ganesholi/Downloads/psp34/target/ink/release/deps/libink_metadata-55fdfc6fcb8cc9d4.rlib: /Users/ganesholi/.cargo/git/checkouts/ink-1add513eda8f5a89/4655a8b/crates/metadata/src/lib.rs /Users/ganesholi/.cargo/git/checkouts/ink-1add513eda8f5a89/4655a8b/crates/metadata/src/layout/mod.rs /Users/ganesholi/.cargo/git/checkouts/ink-1add513eda8f5a89/4655a8b/crates/metadata/src/layout/validate.rs /Users/ganesholi/.cargo/git/checkouts/ink-1add513eda8f5a89/4655a8b/crates/metadata/src/specs.rs /Users/ganesholi/.cargo/git/checkouts/ink-1add513eda8f5a89/4655a8b/crates/metadata/src/utils.rs
+
+/Users/ganesholi/Downloads/psp34/target/ink/release/deps/ink_metadata-55fdfc6fcb8cc9d4.d: /Users/ganesholi/.cargo/git/checkouts/ink-1add513eda8f5a89/4655a8b/crates/metadata/src/lib.rs /Users/ganesholi/.cargo/git/checkouts/ink-1add513eda8f5a89/4655a8b/crates/metadata/src/layout/mod.rs /Users/ganesholi/.cargo/git/checkouts/ink-1add513eda8f5a89/4655a8b/crates/metadata/src/layout/validate.rs /Users/ganesholi/.cargo/git/checkouts/ink-1add513eda8f5a89/4655a8b/crates/metadata/src/specs.rs /Users/ganesholi/.cargo/git/checkouts/ink-1add513eda8f5a89/4655a8b/crates/metadata/src/utils.rs
+
+/Users/ganesholi/.cargo/git/checkouts/ink-1add513eda8f5a89/4655a8b/crates/metadata/src/lib.rs:
+/Users/ganesholi/.cargo/git/checkouts/ink-1add513eda8f5a89/4655a8b/crates/metadata/src/layout/mod.rs:
+/Users/ganesholi/.cargo/git/checkouts/ink-1add513eda8f5a89/4655a8b/crates/metadata/src/layout/validate.rs:
+/Users/ganesholi/.cargo/git/checkouts/ink-1add513eda8f5a89/4655a8b/crates/metadata/src/specs.rs:
+/Users/ganesholi/.cargo/git/checkouts/ink-1add513eda8f5a89/4655a8b/crates/metadata/src/utils.rs:
